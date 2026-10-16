@@ -1,0 +1,11 @@
+data/
+checkpoints/
+mlartifacts/
+mlflow.db
+resultats/
+tests/
+*.ipynb
+*.pdf
+**/__pycache__/
+.pytest_cache/
+.git/

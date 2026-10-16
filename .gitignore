@@ -1,0 +1,9 @@
+# Données (à télécharger, voir README) et fichiers produits localement
+data/
+checkpoints/
+mlartifacts/
+mlflow.db
+# Fiches de sujets de l'école : non publiées
+Fiches_PFA_IA.pdf
+__pycache__/
+.pytest_cache/

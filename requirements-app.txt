@@ -1,0 +1,4 @@
+# Démo Streamlit (elle n'utilise pas le modèle directement : elle appelle l'API)
+streamlit==1.50.0
+pandas==2.3.3
+requests==2.32.5
